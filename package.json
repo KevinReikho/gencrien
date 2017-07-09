@@ -1,0 +1,23 @@
+{
+  "name": "gencrien",
+  "version": "1.0.0",
+  "description": "What a game we don't know what is it",
+  "main": "index.js",
+  "dependencies": {
+    "phaser-ce": "^2.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinReikho/gencrien.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinReikho/gencrien/issues"
+  },
+  "homepage": "https://github.com/KevinReikho/gencrien#readme"
+}
