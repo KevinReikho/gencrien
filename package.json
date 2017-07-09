@@ -4,7 +4,8 @@
   "description": "What a game we don't know what is it",
   "main": "index.js",
   "dependencies": {
-    "phaser-ce": "^2.8.1"
+    "phaser-ce": "^2.8.1",
+    "socket.io": "^2.0.3"
   },
   "devDependencies": {},
   "scripts": {
